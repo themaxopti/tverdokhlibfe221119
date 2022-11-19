@@ -1,0 +1,538 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders learn react link 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="users"
+        data-testid="users"
+      >
+        <div
+          class="users__items"
+        >
+          <div
+            class="users__item"
+            data-testid="user"
+          >
+            <div
+              class="users__information"
+            >
+              <div
+                class="users__image"
+              >
+                <img
+                  alt=""
+                  src="/images/1.jpg"
+                />
+              </div>
+              <div
+                class="users__name"
+              >
+                 
+                Geordan Aaryn
+              </div>
+              <div
+                class="users__nickname "
+              >
+                @geordanaaryn
+              </div>
+            </div>
+            <a
+              href="/user/1"
+            >
+              <div
+                class="users__view"
+              >
+                View
+              </div>
+            </a>
+          </div>
+          <div
+            class="users__item"
+            data-testid="user"
+          >
+            <div
+              class="users__information"
+            >
+              <div
+                class="users__image"
+              >
+                <img
+                  alt=""
+                  src="/images/2.jpg"
+                />
+              </div>
+              <div
+                class="users__name"
+              >
+                 
+                Brazil Izair
+              </div>
+              <div
+                class="users__nickname "
+              >
+                @brazilizair
+              </div>
+            </div>
+            <a
+              href="/user/2"
+            >
+              <div
+                class="users__view"
+              >
+                View
+              </div>
+            </a>
+          </div>
+          <div
+            class="users__item"
+            data-testid="user"
+          >
+            <div
+              class="users__information"
+            >
+              <div
+                class="users__image"
+              >
+                <img
+                  alt=""
+                  src="/images/3.jpg"
+                />
+              </div>
+              <div
+                class="users__name"
+              >
+                 
+                Selman Winston
+              </div>
+              <div
+                class="users__nickname "
+              >
+                @selmanwinston
+              </div>
+            </div>
+            <a
+              href="/user/3"
+            >
+              <div
+                class="users__view"
+              >
+                View
+              </div>
+            </a>
+          </div>
+          <div
+            class="users__item"
+            data-testid="user"
+          >
+            <div
+              class="users__information"
+            >
+              <div
+                class="users__image"
+              >
+                <img
+                  alt=""
+                  src="/images/4.jpg"
+                />
+              </div>
+              <div
+                class="users__name"
+              >
+                 
+                Kaine Dutch
+              </div>
+              <div
+                class="users__nickname "
+              >
+                @kainedutch
+              </div>
+            </div>
+            <a
+              href="/user/4"
+            >
+              <div
+                class="users__view"
+              >
+                View
+              </div>
+            </a>
+          </div>
+          <div
+            class="users__item"
+            data-testid="user"
+          >
+            <div
+              class="users__information"
+            >
+              <div
+                class="users__image"
+              >
+                <img
+                  alt=""
+                  src="/images/5.jpg"
+                />
+              </div>
+              <div
+                class="users__name"
+              >
+                 
+                Kerby Linton
+              </div>
+              <div
+                class="users__nickname "
+              >
+                @kerbylinton
+              </div>
+            </div>
+            <a
+              href="/user/5"
+            >
+              <div
+                class="users__view"
+              >
+                View
+              </div>
+            </a>
+          </div>
+          <div
+            class="users__item"
+            data-testid="user"
+          >
+            <div
+              class="users__information"
+            >
+              <div
+                class="users__image"
+              >
+                <img
+                  alt=""
+                  src="/images/6.jpg"
+                />
+              </div>
+              <div
+                class="users__name"
+              >
+                 
+                Gilad Delvon
+              </div>
+              <div
+                class="users__nickname "
+              >
+                @giladdelvon
+              </div>
+            </div>
+            <a
+              href="/user/6"
+            >
+              <div
+                class="users__view"
+              >
+                View
+              </div>
+            </a>
+          </div>
+        </div>
+        <div
+          class="users__all"
+          data-testid="view"
+        >
+          View all
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="users"
+      data-testid="users"
+    >
+      <div
+        class="users__items"
+      >
+        <div
+          class="users__item"
+          data-testid="user"
+        >
+          <div
+            class="users__information"
+          >
+            <div
+              class="users__image"
+            >
+              <img
+                alt=""
+                src="/images/1.jpg"
+              />
+            </div>
+            <div
+              class="users__name"
+            >
+               
+              Geordan Aaryn
+            </div>
+            <div
+              class="users__nickname "
+            >
+              @geordanaaryn
+            </div>
+          </div>
+          <a
+            href="/user/1"
+          >
+            <div
+              class="users__view"
+            >
+              View
+            </div>
+          </a>
+        </div>
+        <div
+          class="users__item"
+          data-testid="user"
+        >
+          <div
+            class="users__information"
+          >
+            <div
+              class="users__image"
+            >
+              <img
+                alt=""
+                src="/images/2.jpg"
+              />
+            </div>
+            <div
+              class="users__name"
+            >
+               
+              Brazil Izair
+            </div>
+            <div
+              class="users__nickname "
+            >
+              @brazilizair
+            </div>
+          </div>
+          <a
+            href="/user/2"
+          >
+            <div
+              class="users__view"
+            >
+              View
+            </div>
+          </a>
+        </div>
+        <div
+          class="users__item"
+          data-testid="user"
+        >
+          <div
+            class="users__information"
+          >
+            <div
+              class="users__image"
+            >
+              <img
+                alt=""
+                src="/images/3.jpg"
+              />
+            </div>
+            <div
+              class="users__name"
+            >
+               
+              Selman Winston
+            </div>
+            <div
+              class="users__nickname "
+            >
+              @selmanwinston
+            </div>
+          </div>
+          <a
+            href="/user/3"
+          >
+            <div
+              class="users__view"
+            >
+              View
+            </div>
+          </a>
+        </div>
+        <div
+          class="users__item"
+          data-testid="user"
+        >
+          <div
+            class="users__information"
+          >
+            <div
+              class="users__image"
+            >
+              <img
+                alt=""
+                src="/images/4.jpg"
+              />
+            </div>
+            <div
+              class="users__name"
+            >
+               
+              Kaine Dutch
+            </div>
+            <div
+              class="users__nickname "
+            >
+              @kainedutch
+            </div>
+          </div>
+          <a
+            href="/user/4"
+          >
+            <div
+              class="users__view"
+            >
+              View
+            </div>
+          </a>
+        </div>
+        <div
+          class="users__item"
+          data-testid="user"
+        >
+          <div
+            class="users__information"
+          >
+            <div
+              class="users__image"
+            >
+              <img
+                alt=""
+                src="/images/5.jpg"
+              />
+            </div>
+            <div
+              class="users__name"
+            >
+               
+              Kerby Linton
+            </div>
+            <div
+              class="users__nickname "
+            >
+              @kerbylinton
+            </div>
+          </div>
+          <a
+            href="/user/5"
+          >
+            <div
+              class="users__view"
+            >
+              View
+            </div>
+          </a>
+        </div>
+        <div
+          class="users__item"
+          data-testid="user"
+        >
+          <div
+            class="users__information"
+          >
+            <div
+              class="users__image"
+            >
+              <img
+                alt=""
+                src="/images/6.jpg"
+              />
+            </div>
+            <div
+              class="users__name"
+            >
+               
+              Gilad Delvon
+            </div>
+            <div
+              class="users__nickname "
+            >
+              @giladdelvon
+            </div>
+          </div>
+          <a
+            href="/user/6"
+          >
+            <div
+              class="users__view"
+            >
+              View
+            </div>
+          </a>
+        </div>
+      </div>
+      <div
+        class="users__all"
+        data-testid="view"
+      >
+        View all
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
